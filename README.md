@@ -1,4 +1,4 @@
-# Secure AI App with Authentication
+# Coding Challenge Generator :Secure AI App with Authentication
 
 ## Overview
 This project is a full-stack AI-powered application with authentication. It allows users to generate coding challenges using OpenAI's GPT models, manage quotas, and view their challenge history. The app is built with a FastAPI backend and a React frontend, integrated with Clerk for authentication.
